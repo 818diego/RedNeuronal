@@ -25,12 +25,14 @@ This web application uses a Convolutional Neural Network (CNN) implemented in Py
 
    ```bash
    git clone https://github.com/818diego/RedNeuronal
-
+   ```
    
 2. **Navigate to the project directory:**
    ```bash
    cd RedNeuronal
-
+   ```
+3. **Run the project in visual studio code, from Live Preview (Visual Code Extension)**
+   
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
