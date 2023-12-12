@@ -25,3 +25,6 @@ This web application uses a Convolutional Neural Network (CNN) implemented in Py
 
    ```bash
    git clone https://github.com/818diego/RedNeuronal
+2. **Navigate to the project directory:**
+   ```bash
+   cd RedNeuronal
