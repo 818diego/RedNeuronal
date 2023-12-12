@@ -25,6 +25,22 @@ This web application uses a Convolutional Neural Network (CNN) implemented in Py
 
    ```bash
    git clone https://github.com/818diego/RedNeuronal
+
+   
 2. **Navigate to the project directory:**
    ```bash
    cd RedNeuronal
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork.
+5. Create a pull request to the original repository.
+
+## License
+
+This project was created as a practice for my university, but you can use it if it is useful to someone.
