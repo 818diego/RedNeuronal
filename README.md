@@ -24,4 +24,4 @@ This web application uses a Convolutional Neural Network (CNN) implemented in Py
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/dog-breed-prediction.git](https://github.com/818diego/RedNeuronal)https://github.com/818diego/RedNeuronal
+   git clone https://github.com/818diego/RedNeuronal
