@@ -14,6 +14,7 @@ This web application uses a Convolutional Neural Network (CNN) implemented in Py
 - **model**: Contains the Python code for the CNN model.
   - **dog_breed_prediction_model.py**: Implementation of the CNN model.
   - **trained_model_weights.h5**: Pre-trained weights for the model.
+  - **Code in Google Colab the model:** https://colab.research.google.com/drive/1QlyDJ22HHYJ0gB0IPJeLCSnFnMeK7nqo?usp=sharing
 - **web_app**: Contains the web application source code.
   - **index.html**: Main HTML file for the application.
   - **style.css**: Stylesheet for styling the web interface.
