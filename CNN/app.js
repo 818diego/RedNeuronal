@@ -12,6 +12,8 @@ async function preprocessImage(image) {
     return tfImage.sub(meanImageNetRGB).div(tf.scalar(255));
 }
 
+reader.readAsDataURL(file);
+
 async function predict() {
     const model = await loadModel();
     const imageUpload = document.getElementById('archivoInput');
